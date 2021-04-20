@@ -2,7 +2,7 @@
 
 Serverless Framework plugin to export the qualified ARNs for Lambda functions under a predictable name.
 
-This is based on the requirements suggested in [https://github.com/serverless/serverless/issues/3661].
+This is based on the requirements suggested in [serverless/serverless#3661](https://github.com/serverless/serverless/issues/3661).
 
 ## Usage
 
