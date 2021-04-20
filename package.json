@@ -1,6 +1,6 @@
 {
   "name": "serverless-plugin-export-qualified-arns",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A serverless framework plugin to export the qualified ARNs of all deployed lambda functions",
   "main": "index.js",
   "scripts": {
