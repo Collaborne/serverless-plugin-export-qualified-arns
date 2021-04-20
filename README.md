@@ -1,4 +1,4 @@
-# serverless-plugin-export-qualified-function-arns
+# serverless-plugin-export-qualified-arns
 
 Serverless Framework plugin to export the qualified ARNs for Lambda functions under a predictable name.
 
@@ -9,14 +9,14 @@ This is based on the requirements suggested in [serverless/serverless#3661](http
 1. Install the plugin
 
     ```sh
-    npm install --save serverless-plugin-export-qualified-function-arns
+    npm install --save serverless-plugin-export-qualified-arns
     ```
 
 2. Add the plugin to the `serverless.yml` configuration file
 
     ```yaml
     plugins:
-      - serverless-plugin-export-qualified-function-arns
+      - serverless-plugin-export-qualified-arns
     ```
 
 3. Use the stack outputs named "function name" + `QualifiedArn`

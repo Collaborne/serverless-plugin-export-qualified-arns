@@ -1,7 +1,7 @@
 /**
  * @implements {import('serverless/classes/Plugin')}
  */
-class ExportQualifiedFunctionArnsPlugin {
+class ExportQualifiedArnsPlugin {
 	/**
 	 *
 	 * @param {import('serverless')} serverless
@@ -42,4 +42,4 @@ class ExportQualifiedFunctionArnsPlugin {
 	}
 }
 
-module.exports = ExportQualifiedFunctionArnsPlugin;
+module.exports = ExportQualifiedArnsPlugin;
