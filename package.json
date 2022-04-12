@@ -26,6 +26,6 @@
     "index.js"
   ],
   "peerDependencies": {
-    "serverless": "^2.18.0"
+    "serverless": "^3.10.2"
   }
 }
